@@ -2,7 +2,7 @@
 title: 'Using the EUI Library'
 subtitle: 'What you need to know</br></br><strong>Simone Sacchi, Ph.D.</strong></br>Research data Librarian</br>Library liaison for the RSC<br/><a href=\"mailto:simone.sacchi@eui.eu\">simone.sacchi@eui.eu</a>'
 title-slide-attributes:
-  data-background-image: '/images/EUI-logo-acronym.svg'
+  data-background-image: 'images/EUI-logo-acronym.svg'
   data-background-size: '25%'
   data-background-position: top 5% center
   data-background-repeat: no-repeat
