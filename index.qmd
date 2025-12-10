@@ -1,5 +1,5 @@
 ---
-title: 'Using the EUI Library'
+title: '<br/>Using the EUI Library'
 subtitle: 'What you need to know</br></br><strong>Simone Sacchi, Ph.D.</strong></br>Research data Librarian</br>Library liaison for the RSC<br/><a href=\"mailto:simone.sacchi@eui.eu\">simone.sacchi@eui.eu</a>'
 title-slide-attributes:
   data-background-image: 'images/EUI-logo-acronym.svg'
