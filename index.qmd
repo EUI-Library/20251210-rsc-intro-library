@@ -208,15 +208,3 @@ All library guides available here: [https://eui.libguides.com/](https://eui.libg
 (Also Teams and BF-278)
 
 :::
-
----
-
-## Any question? {.center background-image="/images/just_science_done_right.png" background-position="top right" background-repeat="no-repeat" background-size="15%" style="text-align: center;"}
-
-::: {style="text-align: center; margin-top: 1em"}
-Simone Sacchi
-
-[simone.sacchi@eui.eu](mailto:simone.sacchi@eui.eu)
-
-[resdata@eui.eu](mailto:resdata@eui.eu)
-:::
