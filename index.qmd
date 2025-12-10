@@ -98,6 +98,12 @@ Read more: [https://www.eui.eu/Research/Library/Services/BookDeliveryService](ht
   * Through the Library catalogue: [EUI Account](https://www.eui.eu/ServicesAndAdmin/ComputingService/ComputingAccounts/AccountOverview){data-preview-link="true"}
   * [VPN Remote Connection](https://www.eui.eu/ServicesAndAdmin/ComputingService/Network/VPN){data-preview-link="true"} offers EUI members a secure connection to the EUI's private network
 
+:::{.callout-note appearance="minimal"}
+
+Read more: [https://eui.libguides.com/electronic-resources](https://eui.libguides.com/electronic-resources){data-preview-link="true"}
+
+:::
+
 ---
 
 ## Access to electronic resources [2]
@@ -136,11 +142,16 @@ Read more: [https://www.eui.eu/Research/Library/Services/BookDeliveryService](ht
 ## Interlibrary Loans (ILL)
 
 * The Library borrows books on your behalf OR requests a book chapter or article
-* 80 per person per year
-* Free of charge
+* 80 per person per year, free of charge
 * You may ask for single book chapters and single articles, it’s quicker and digital
 * If you’re leaving Florence soon, postpone your request
-* Email us if you need to clarifications, if you cannot pickup the items, etc.
+
+:::{.callout-note appearance="minimal"}
+
+Read more: [https://eui.libguides.com/ill-dd-service](https://eui.libguides.com/ill-dd-service){data-preview-link="true"}
+
+:::
+
 
 ---
 
@@ -149,7 +160,7 @@ Read more: [https://www.eui.eu/Research/Library/Services/BookDeliveryService](ht
 * Was the book published in the last 2 years?
   * YES: request to purchase
   * NO: request an ILL
-* BONUS: check  at the other Florentine libraries!
+* BONUS: check  at the other [Florentine libraries](https://eui.libguides.com/libraries-in-florence){data-preview-link="true"}!
 
 ---
 
@@ -169,10 +180,10 @@ Read more: [https://www.eui.eu/Research/Library/Services/BookDeliveryService](ht
 
 **Disciplinary guides**
 
-* [Economics Guide](link){data-preview-link="true"}
+* [Economics Guide](https://www.eui.eu/research/library/researchguides/economics){data-preview-link="true"}
 * [History Guide](https://eui.libguides.com/History){data-preview-link="true"}
 * [Law Guide](https://eui.libguides.com/Law){data-preview-link="true"}
-* [Social and Political Sciences Guide](link){data-preview-link="true"}
+* [Social and Political Sciences Guide](https://www.eui.eu/Research/Library/ResearchGuides/PoliticalAndSocialSciences){data-preview-link="true"}
 
 ::::
 :::: {.col}
@@ -189,7 +200,7 @@ Read more: [https://www.eui.eu/Research/Library/Services/BookDeliveryService](ht
 
 :::{.callout-note appearance="minimal"}
 
-All library guides available here: [https://eui.libguides.com/](https://eui.libguides.com/)
+All library guides available here: [https://eui.libguides.com/](https://eui.libguides.com/){data-preview-link="true"}
 
 :::
 
@@ -208,3 +219,9 @@ All library guides available here: [https://eui.libguides.com/](https://eui.libg
 (Also Teams and BF-278)
 
 :::
+
+---
+
+## Acknowledgements
+
+I wish thank [Federica Signoriello](https://www.eui.eu/people?id=federica-signoriello){data-preview-link="true"}, EUI Library Information Specialist for History, for allowing me to reuse the invaluable content she prepared.
